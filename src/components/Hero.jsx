@@ -51,8 +51,8 @@ const Hero = () => {
             <a href="#projects" className="btn-gradient">
               View Projects
             </a>
-            <a href="tel:7861037313" className="px-6 py-3 rounded-full border border-purple-600 text-purple-600 font-medium hover:bg-purple-50 transition-colors shadow-lg hover:shadow-purple-500/10">
-              Contact Me: 7861037313
+            <a href="#contact" className="px-6 py-3 rounded-full border border-purple-600 text-purple-600 font-medium hover:bg-purple-50 transition-colors shadow-lg hover:shadow-purple-500/10">
+              Contact Me
             </a>
           </div>
         </motion.div>

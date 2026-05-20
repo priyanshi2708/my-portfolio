@@ -52,7 +52,7 @@ const Navbar = () => {
             </motion.a>
           ))}
           <motion.a
-            href="tel:7861037313"
+            href="#contact"
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             className="btn-gradient px-4 py-2 text-sm"
@@ -89,7 +89,7 @@ const Navbar = () => {
                   {link.name}
                 </a>
               ))}
-              <a href="tel:7861037313" className="btn-gradient text-center">
+              <a href="#contact" className="btn-gradient text-center">
                 Hire Me
               </a>
             </div>
